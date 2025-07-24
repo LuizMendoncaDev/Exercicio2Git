@@ -1,2 +1,3 @@
 Novo projeto aqui
 Fazendo um conflito 2
+Depois do conflito, vem um novo commit
