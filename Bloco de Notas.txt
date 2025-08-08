@@ -6,4 +6,6 @@ Estou fazendo uma nova alteração
 
 Adicionando linha 6
 
-Vou fazer mais uma edição linha 9
+Vou fazer mais uma edição linha 1020
+
+Esse vai ser um novo commit
