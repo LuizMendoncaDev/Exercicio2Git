@@ -1,3 +1,9 @@
 Novo projeto aqui
 Fazendo um conflito 2
 Depois do conflito, vem um novo commit
+
+Estou fazendo uma nova alteração
+
+Adicionando linha 6
+
+Vou fazer mais uma edição linha 9
